@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 ## -*-sh-*-
 #set -x
 # BEGIN of icu-config-top
